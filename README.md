@@ -1,4 +1,4 @@
-# Algorith to check Anagrams
+# 🧑‍🔧 Algorith to check Anagrams
 
 Little project for university where I check words for Anagrams.
 When two or more words are composed of the same characters, but in a different order, they are called anagrams.
