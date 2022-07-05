@@ -11,6 +11,8 @@ Example: `alger,glare,lager,large,regal`
 
 To start the algorith run `node algo.js`
 
+&nbsp;
+
 ## Credits
 
 http://www.rosettacode.org/wiki/Anagrams
